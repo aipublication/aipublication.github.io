@@ -207,7 +207,7 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.13.0)
     multipart-post (2.1.1)
-    nokogiri (1.11.2-x86_64-linux)
+    nokogiri (1.11.7-x86_64-linux)
       racc (~> 1.4)
     octokit (4.14.0)
       sawyer (~> 0.8.0, >= 0.5.3)
